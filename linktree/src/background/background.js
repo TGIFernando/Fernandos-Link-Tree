@@ -22,12 +22,9 @@ function Background() {
         />
         <Card media="LinkedIn" href="https://www.linkedin.com/in/f-chavez/" />
         <Button media="Discord" value="TGIFernando#9897" />
+        <Button media="BTC Wallet" value="3QqCiEm5JqjgoggvfBDmDDGvVXfh9LEAav" />
         <Button
-          media="Bitcoin Wallet"
-          value="3QqCiEm5JqjgoggvfBDmDDGvVXfh9LEAav"
-        />
-        <Button
-          media="Eth Wallet"
+          media="ETH Wallet"
           value="0xD3006142c09494aE651108e33311052a3d491381"
         />
       </BackgroundDiv>
