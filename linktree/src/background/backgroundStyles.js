@@ -9,4 +9,6 @@ export const BackgroundDiv = styled.div`
   background-color: #363635;
   justify-content: center;
   align-items: center;
+  @media (max-height: 600px) {
+  } ;
 `;

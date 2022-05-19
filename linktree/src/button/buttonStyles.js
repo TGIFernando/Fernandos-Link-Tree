@@ -20,4 +20,10 @@ export const MainButton = styled.div`
     color: #868683;
     transition-duration: 0.2s;
   }
+  @media (max-height: 600px) {
+    font-size: 1.5rem;
+    margin: 0.5rem;
+    width: 30%;
+    height: 3rem;
+  } ;
 `;

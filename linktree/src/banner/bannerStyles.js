@@ -10,4 +10,7 @@ export const MainBanner = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
+  @media (max-height: 600px) {
+    font-size: 2rem;
+  } ;
 `;
