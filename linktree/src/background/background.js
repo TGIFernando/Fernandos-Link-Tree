@@ -27,6 +27,10 @@ function Background() {
           media="ETH Wallet"
           value="0xD3006142c09494aE651108e33311052a3d491381"
         />
+        <Card
+          media="Venmo"
+          href="https://venmo.com/code?user_id=2522886027870208085&created=1656479986"
+        />
       </BackgroundDiv>
     </>
   );
